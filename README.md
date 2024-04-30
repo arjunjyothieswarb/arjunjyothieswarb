@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! Bhanu Prasad Here! 👋
+I'm a Robotics enthusiast specialized in Path planning.
 <!--
 **arjunjyothieswarb/arjunjyothieswarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
