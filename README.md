@@ -13,4 +13,4 @@
 <h3>My Skillsets:</h3>
 <p>
 
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=yellow&logoSize=auto" />
