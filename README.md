@@ -9,6 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate sea-food
 
-<p>Welcome to my page! </br> I'm a Robotics enthusiast specialized in Path planning. <img width="32" src="https://img.icons8.com/color/32/india.png" alt="india"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm a Robotics enthusiast specialized in Path planning. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 <p>
