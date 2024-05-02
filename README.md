@@ -20,5 +20,9 @@
 <img alt="Numpy" src="https://img.shields.io/badge/Numpy-blue?logo=numpy&logoColor=yellow&logoSize=auto"/>
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-blue?logoSize=auto">
 <!-- <img alt="VS Code" src=""> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  height="42" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="42" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="42" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="42" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" height="42" width="42"/>
           
