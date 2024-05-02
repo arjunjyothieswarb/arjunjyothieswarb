@@ -19,10 +19,4 @@
 <img alt="ROS" src="https://img.shields.io/badge/ROS-%2322314E?logo=ROS&logoColor=black&logoSize=auto&labelColor=white" height="30" width="70">
 <img alt="Numpy" src="https://img.shields.io/badge/Numpy-blue?logo=numpy&logoColor=yellow&logoSize=auto" height="30" width="70"/>
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-blue?logoSize=auto" height="30" width="70">
-<!-- <img alt="VS Code" src=""> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  height="30" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="64" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" height="64" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="48" width="48"/>
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-white?logo=Visual%20Studio%20Code&logoColor=%23007ACC&logoSize=auto" height="30" width="70">
