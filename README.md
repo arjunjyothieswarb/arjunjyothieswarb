@@ -19,3 +19,6 @@
 <img alt="ROS" src="https://img.shields.io/badge/ROS-%2322314E?logo=ROS&logoColor=black&logoSize=auto&labelColor=white">
 <img alt="Numpy" src="https://img.shields.io/badge/Numpy-blue?logo=numpy&logoColor=yellow&logoSize=auto"/>
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-blue?logoSize=auto">
+<!-- <img alt="VS Code" src=""> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
