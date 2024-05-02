@@ -1,9 +1,5 @@
 ### Hi there! Bhanu Prasad Here! 👋
 
-<p>Welcome to my page! </br> I'm a Robotics enthusiast specialized in Path planning. </p>
-<h3>My Skillsets:</h3>
-<p>
-
 - 🔭 I’m currently working on SLAM
 - 🌱 I’m currently learning Reinforcement learning
 - 👯 I’m looking to collaborate on Reinforcement learning
@@ -12,6 +8,10 @@
 - 📫 How to reach me: bhanuprasadaj18@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate sea-food
+
+<p>Welcome to my page! </br> I'm a Robotics enthusiast specialized in Path planning. </p>
+<h3>My Skillsets:</h3>
+<p>
 
 <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC?logo=C&logoColor=white&logoSize=auto">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=C%2B%2B&logoColor=white&logoSize=auto">
