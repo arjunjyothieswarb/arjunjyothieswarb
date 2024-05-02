@@ -18,3 +18,4 @@
 <img alt="Python" src="https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=yellow&logoSize=auto"/>
 <img alt="Numpy" src="https://img.shields.io/badge/Numpy-blue?logo=numpy&logoColor=yellow&logoSize=auto"/>
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-blue?logoSize=auto">
+<img alt="ROS" src="https://img.shields.io/badge/ROS-%2322314E?logo=ROS&logoColor=black&logoSize=auto&labelColor=white">
