@@ -28,4 +28,4 @@
 <h3>Skillsets:</h3>
 <p>
 
-<img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC?logoColor=green">
+<img alt="C" src="https://img.shields.io/badge/C-white?color=%23A8B9CC">
