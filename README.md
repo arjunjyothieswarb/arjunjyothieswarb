@@ -20,3 +20,7 @@
 <img alt="Numpy" src="https://img.shields.io/badge/Numpy-blue?logo=numpy&logoColor=yellow&logoSize=auto"> <!-- height="30" width="70"/> -->
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-blue?logoSize=auto"> <!-- height="30" width="70"> -->
 <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-white?logo=Visual%20Studio%20Code&logoColor=%23007ACC&logoSize=auto"> <!-- height="30" width="90"> -->
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300878F?logo=Arduino&logoColor=White&labelColor=%2300878F&color=white
+">
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-%23A22846?logo=RaspberryPi&logoColor=green&labelColor=%23A22846
+">
