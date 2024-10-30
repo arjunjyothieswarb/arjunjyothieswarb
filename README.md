@@ -24,8 +24,3 @@
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-%23A22846?logo=RaspberryPi&logoColor=green&labelColor=%23A22846">
 
 </p>
-
-<h3>Skillsets:</h3>
-<p>
-
-<img alt="C" src="https://img.shields.io/badge/C-white?color=%23A8B9CC">
